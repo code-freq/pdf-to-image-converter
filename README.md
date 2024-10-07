@@ -37,7 +37,7 @@ pip install PyQt6 Pillow
    ```bash
    cd pdf-to-image-converter
    ```
-3. Install the required packages using pip as mentioned above:
+3. Install the required packages using pip as mentioned above
    
 ## Usage
 1. To use the application, run the ```pdf2img.exe``` file located in the ```dist``` folder.
