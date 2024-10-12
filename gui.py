@@ -55,7 +55,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "PDF to PNG Converter - by aybrky"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "PDF to PNG Converter - by ~code-freq~"))
         self.lineEdit.setPlaceholderText(_translate("MainWindow", "Enter file path"))
         self.pushButton.setText(_translate("MainWindow", "Browse"))
         self.label.setText(_translate("MainWindow", "Examples:\n"
